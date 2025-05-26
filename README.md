@@ -1,1 +1,1 @@
-![prueba] (prueba.png)
+![prueba] (./prueba.png)
